@@ -10,7 +10,7 @@ export class GetWeatherService {
 
   getWeather(location:string){
     return this.http.get(
-        'http://api.weatherstack.com/current?access_key=40d30e5bca80473c577249208141d78e&query=' + location
+        'http://api.weatherstack.com/current?access_key=dac27ddc147d959e4f399426a59fa08a&query=' + location
     );
 }
 
