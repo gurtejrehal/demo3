@@ -1,6 +1,6 @@
 # Angular Project on HttpClient Request
 
-In this Project, I create a weather app using Angular, Bootstrap, and the APIXU API. Here , we can type a location into a search bar and on submission of that, see the current weather details for that location displayed in our app. The Angular version used in this project is 10.1.6 and the Bootstrap version used is 4.5.1
+In this Project, I create a weather app using Angular, Bootstrap, and the APIXU API. Here , we can type a location into a search bar and on submission of that, see the current weather details for that location displayed in our app. The Angular version used in this project is 10.1.6 and the Bootstrap version used is 4.5.3.
 
 
 ## APIXU
